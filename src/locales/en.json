@@ -1,0 +1,19 @@
+{
+  "app": {
+    "title": "CRM WAP"
+  },
+  "menu": {
+    "home": "Home"
+  },
+  "home": {
+    "title": "Dashboard",
+    "salesChart": "Sales per month",
+    "sales": "Sales",
+    "cpf": "CPF",
+    "phone": "Phone"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "back": "Back to home"
+  }
+}
